@@ -1,2 +1,2 @@
-# wpu-git-test
+# git-test
 Repo untuk mempelajari GITREMOTE
